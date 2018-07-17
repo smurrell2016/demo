@@ -7,3 +7,5 @@ some more text
 Branching example
 
 Hope this isn't a problem.
+
+New modification
