@@ -6,4 +6,4 @@ some more text
 
 Branching example
 
-On the branch now
+This is bound to cause trouble
